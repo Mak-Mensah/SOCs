@@ -1,0 +1,51 @@
+Study_ID,Country,Land_use_before,Land_use_after,Duration_years,Soil_depth_cm,Depth_class,Climate_zone,Soil_type,Soil_texture,outcome_group,unit,treatment_mean,treatment_SD,treatment_n,control_mean,control_SD,control_n
+Fujii_et_al_2019_05,Indonesia,Forest,Grassland,32,40-100,Subsoil (>30 cm),Tropical humid,Acrisols/Alisols/Ultisols,NA,SOC stock,Mg C ha-1,18.5,0.87,3,16.3,1.91,3
+Schwendenmann_and_Pendall_2006_3,Panama,Forest,Grassland,90,10-15,Topsoil (0-30 cm),Tropical humid,Ferralsols/Oxisols,sandy clay loam,SOC stock,Mg C ha-1,8.3,2.7,3,11.1,5.3,3
+Schwendenmann_and_Pendall_2006_4,Panama,Forest,Grassland,90,15-20,Topsoil (0-30 cm),Tropical humid,Ferralsols/Oxisols,sandy clay loam,SOC stock,Mg C ha-1,6.2,1.3,3,8.6,4,3
+Schwendenmann_and_Pendall_2006_5,Panama,Forest,Grassland,90,20-30,Topsoil (0-30 cm),Tropical humid,Ferralsols/Oxisols,sandy clay loam,SOC stock,Mg C ha-1,9.1,1.6,3,11.2,2.6,3
+Schwendenmann_and_Pendall_2006_7,Panama,Forest,Grassland,90,40-50,Subsoil (>30 cm),Tropical humid,Ferralsols/Oxisols,sandy clay loam,SOC stock,Mg C ha-1,6,1.4,3,7.2,1.5,3
+Yonekura_et_al_2010_1,Indonesia,Forest,Grassland,10,0-5,Topsoil (0-30 cm),Tropical humid,Acrisols/Alisols/Ultisols,NA,SOC stock,Mg C ha-1,10.6,2,14,10.7,3,20
+Yonekura_et_al_2010_2,Indonesia,Forest,Grassland,10,0-10,Topsoil (0-30 cm),Tropical humid,Acrisols/Alisols/Ultisols,NA,SOC stock,Mg C ha-1,18.8,3.4,14,16,3.6,20
+Yonekura_et_al_2010_3,Indonesia,Forest,Grassland,10,0-20,Topsoil (0-30 cm),Tropical humid,Acrisols/Alisols/Ultisols,NA,SOC stock,Mg C ha-1,29.5,4.9,14,23.8,4.5,20
+Yonekura_et_al_2010_4,Indonesia,Forest,Grassland,10,0-30,Topsoil (0-30 cm),Tropical humid,Acrisols/Alisols/Ultisols,NA,SOC stock,Mg C ha-1,36.5,5.6,14,29.9,5.1,20
+Yonekura_et_al_2010_5,Indonesia,Forest,Grassland,10,0-50,Whole-profile (0->30 cm),Tropical humid,Acrisols/Alisols/Ultisols,NA,SOC stock,Mg C ha-1,47.2,5.9,14,39.1,6.2,20
+Yonekura_et_al_2010_6,Indonesia,Forest,Grassland,10,0-70,Whole-profile (0->30 cm),Tropical humid,Acrisols/Alisols/Ultisols,NA,SOC stock,Mg C ha-1,56.1,6.1,14,46,7.5,20
+Yonekura_et_al_2010_7,Indonesia,Forest,Grassland,10,0-100,Whole-profile (0->30 cm),Tropical humid,Acrisols/Alisols/Ultisols,NA,SOC stock,Mg C ha-1,67.6,7.2,14,55,8.8,20
+Yonekura_et_al_2010_8,Indonesia,Forest,Grassland,22,0-5,Topsoil (0-30 cm),Tropical humid,Acrisols/Alisols/Ultisols,NA,SOC stock,Mg C ha-1,9,2.5,7,10.7,3,20
+Yonekura_et_al_2010_9,Indonesia,Forest,Grassland,22,0-10,Topsoil (0-30 cm),Tropical humid,Acrisols/Alisols/Ultisols,NA,SOC stock,Mg C ha-1,16.8,4.5,7,16,3.6,20
+Yonekura_et_al_2010_10,Indonesia,Forest,Grassland,22,0-20,Topsoil (0-30 cm),Tropical humid,Acrisols/Alisols/Ultisols,NA,SOC stock,Mg C ha-1,28.7,8.2,7,23.8,4.5,20
+Yonekura_et_al_2010_11,Indonesia,Forest,Grassland,22,0-30,Topsoil (0-30 cm),Tropical humid,Acrisols/Alisols/Ultisols,NA,SOC stock,Mg C ha-1,36.9,9.8,7,29.9,5.1,20
+Yonekura_et_al_2010_12,Indonesia,Forest,Grassland,22,0-50,Whole-profile (0->30 cm),Tropical humid,Acrisols/Alisols/Ultisols,NA,SOC stock,Mg C ha-1,48.8,12.2,7,39.1,6.2,20
+Yonekura_et_al_2010_13,Indonesia,Forest,Grassland,22,0-70,Whole-profile (0->30 cm),Tropical humid,Acrisols/Alisols/Ultisols,NA,SOC stock,Mg C ha-1,58.3,13.6,7,46,7.5,20
+Yonekura_et_al_2010_14,Indonesia,Forest,Grassland,22,0-100,Whole-profile (0->30 cm),Tropical humid,Acrisols/Alisols/Ultisols,NA,SOC stock,Mg C ha-1,70.1,15.6,7,55,8.8,20
+Gelaw_et_al_2014_1,Ethiopia,Cropland,Agroforestry,50,0-5,Topsoil (0-30 cm),Semi-arid,Entisols/Regosols/Arenosols/Leptosols,NA,SOC stock,Mg C ha-1,4.57,1.01,5,2.28,2.57,5
+Gelaw_et_al_2014_2,Ethiopia,Cropland,Agroforestry,50,5-10,Topsoil (0-30 cm),Semi-arid,Entisols/Regosols/Arenosols/Leptosols,NA,SOC stock,Mg C ha-1,5.01,1.41,5,2.34,2.71,5
+Gelaw_et_al_2014_3,Ethiopia,Cropland,Agroforestry,50,10-20,Topsoil (0-30 cm),Semi-arid,Entisols/Regosols/Arenosols/Leptosols,NA,SOC stock,Mg C ha-1,8.53,2.55,5,5.18,5.9,5
+Gelaw_et_al_2014_4,Ethiopia,Cropland,Agroforestry,50,20-30,Topsoil (0-30 cm),Semi-arid,Entisols/Regosols/Arenosols/Leptosols,NA,SOC stock,Mg C ha-1,7.68,1.25,5,6.26,3.42,5
+Gelaw_et_al_2014_5,Ethiopia,Cropland,Agroforestry,50,0-30,Topsoil (0-30 cm),Semi-arid,Entisols/Regosols/Arenosols/Leptosols,NA,SOC stock,Mg C ha-1,25.8,4.25,5,16.1,14.53,5
+Gelaw_et_al_2014_11,Ethiopia,Cropland,Agroforestry,50,0-5,Topsoil (0-30 cm),Semi-arid,Entisols/Regosols/Arenosols/Leptosols,NA,SOC stock,Mg C ha-1,11.1,10.87,5,2.28,2.57,5
+Gelaw_et_al_2014_12,Ethiopia,Cropland,Agroforestry,50,5-10,Topsoil (0-30 cm),Semi-arid,Entisols/Regosols/Arenosols/Leptosols,NA,SOC stock,Mg C ha-1,6.52,8.27,5,2.34,2.71,5
+Gelaw_et_al_2014_13,Ethiopia,Cropland,Agroforestry,50,10-20,Topsoil (0-30 cm),Semi-arid,Entisols/Regosols/Arenosols/Leptosols,NA,SOC stock,Mg C ha-1,11.1,15.09,5,5.18,5.9,5
+Gelaw_et_al_2014_14,Ethiopia,Cropland,Agroforestry,50,20-30,Topsoil (0-30 cm),Semi-arid,Entisols/Regosols/Arenosols/Leptosols,NA,SOC stock,Mg C ha-1,10.3,14.94,5,6.26,3.42,5
+Gelaw_et_al_2014_15,Ethiopia,Cropland,Agroforestry,50,0-30,Topsoil (0-30 cm),Semi-arid,Entisols/Regosols/Arenosols/Leptosols,NA,SOC stock,Mg C ha-1,39.1,48.08,5,16.1,14.53,5
+Deressa_et_al_2020_1,Ethiopia,Cropland,Agroforestry,29,0-20,Topsoil (0-30 cm),Tropical montane,Luvisols/Lixisols/Alfisols,sandy clay to clay loam,SOC stock,Mg C ha-1,11.595,1.478,2,10.695,1.478,4
+Deressa_et_al_2020_3,Ethiopia,Cropland,Agroforestry,13.75,0-20,Topsoil (0-30 cm),Tropical montane,Luvisols/Lixisols/Alfisols,sandy loam to clay loam,SOC stock,Mg C ha-1,13.5,1.478,2,10.695,1.478,4
+Hombegowda_2016_2,India,Cropland,Agroforestry,45,0-100,Whole-profile (0->30 cm),Tropical humid,Nitisols,NA,SOC stock,Mg C ha-1,155,22.7,7,89,28.1,7
+Hombegowda_2016_3,India,Cropland,Agroforestry,60,0-100,Whole-profile (0->30 cm),Tropical humid,Nitisols,NA,SOC stock,Mg C ha-1,156,37.8,7,89,28.1,7
+Hombegowda_2016_5,India,Cropland,Agroforestry,45,0-100,Whole-profile (0->30 cm),Tropical sub-humid/savanna,Nitisols,NA,SOC stock,Mg C ha-1,151,17.3,7,71,19.5,7
+Hombegowda_2016_6,India,Cropland,Agroforestry,60,0-100,Whole-profile (0->30 cm),Tropical sub-humid/savanna,Nitisols,NA,SOC stock,Mg C ha-1,142,18.4,7,71,19.5,7
+Hombegowda_2016_8,India,Cropland,Agroforestry,45,0-100,Whole-profile (0->30 cm),Tropical humid,Nitisols,NA,SOC stock,Mg C ha-1,166,68.1,7,77,40,7
+Hombegowda_2016_9,India,Cropland,Agroforestry,60,0-100,Whole-profile (0->30 cm),Tropical humid,Nitisols,NA,SOC stock,Mg C ha-1,169,48.7,7,77,40,7
+Hombegowda_2016_11,India,Cropland,Agroforestry,45,0-100,Whole-profile (0->30 cm),Tropical sub-humid/savanna,Nitisols,NA,SOC stock,Mg C ha-1,137,53.5,7,74,19.5,7
+Hombegowda_2016_12,India,Cropland,Agroforestry,60,0-100,Whole-profile (0->30 cm),Tropical sub-humid/savanna,Nitisols,NA,SOC stock,Mg C ha-1,150,36.8,7,74,19.5,7
+Hombegowda_2016_14,India,Cropland,Agroforestry,45,0-100,Whole-profile (0->30 cm),Tropical humid,Nitisols,NA,SOC stock,Mg C ha-1,115,25.9,7,89,28.1,7
+Hombegowda_2016_15,India,Cropland,Agroforestry,60,0-100,Whole-profile (0->30 cm),Tropical humid,Nitisols,NA,SOC stock,Mg C ha-1,129,29.7,7,89,28.1,7
+Hombegowda_2016_17,India,Cropland,Agroforestry,45,0-100,Whole-profile (0->30 cm),Tropical sub-humid/savanna,Luvisols/Lixisols/Alfisols,NA,SOC stock,Mg C ha-1,75,30.8,7,53,21.6,7
+Hombegowda_2016_18,India,Cropland,Agroforestry,60,0-100,Whole-profile (0->30 cm),Tropical sub-humid/savanna,Luvisols/Lixisols/Alfisols,NA,SOC stock,Mg C ha-1,72,24.3,7,53,21.6,7
+Hombegowda_2016_20,India,Cropland,Agroforestry,45,0-100,Whole-profile (0->30 cm),Tropical sub-humid/savanna,Luvisols/Lixisols/Alfisols,NA,SOC stock,Mg C ha-1,84,14.1,7,56,20,7
+Hombegowda_2016_21,India,Cropland,Agroforestry,60,0-100,Whole-profile (0->30 cm),Tropical sub-humid/savanna,Luvisols/Lixisols/Alfisols,NA,SOC stock,Mg C ha-1,85,21.6,7,56,20,7
+Hombegowda_2016_23,India,Cropland,Agroforestry,45,0-100,Whole-profile (0->30 cm),Semi-arid,Luvisols/Lixisols/Alfisols,NA,SOC stock,Mg C ha-1,66,6.5,7,48,10.3,7
+Hombegowda_2016_24,India,Cropland,Agroforestry,60,0-100,Whole-profile (0->30 cm),Semi-arid,Luvisols/Lixisols/Alfisols,NA,SOC stock,Mg C ha-1,69,11.4,7,48,10.3,7
+Chendev_2015_02,Russia,Cropland,Agroforestry,NA,0-30,Topsoil (0-30 cm),Semi-arid,NA,NA,SOC stock,Mg C ha-1,126.4,29.74,18,109.3,10.24,24
+Chendev_2015_04,Russia,Cropland,Agroforestry,NA,0-30,Topsoil (0-30 cm),Semi-arid,NA,NA,SOC stock,Mg C ha-1,142.1,12.81,18,127.2,11.8,24
+Chendev_2015_06,Russia,Cropland,Agroforestry,NA,0-30,Topsoil (0-30 cm),Semi-arid,NA,NA,SOC stock,Mg C ha-1,125,14.1,18,123.6,10.98,24
